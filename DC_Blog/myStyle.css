@@ -1,0 +1,102 @@
+
+header h1 {
+    display: inline;
+
+}
+img {
+    padding: 2.5% 0 0 8%;
+    width: 85px;
+    height: 25px;
+}
+h1 {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header ul {
+    float: right;
+    padding: 2.5% 8% 0 0;
+}
+
+header li {
+    display: inline;
+    color: grey;
+    font-size: 20px;
+  
+}
+
+body .title {
+    display: block;
+    margin: 0;
+    padding: 50px 100px 0 100px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body .title2 {
+    display: block;
+    margin: 0;
+    padding: 5px 115px 0 115px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body .date {
+    display: block;
+    margin: 50px 0 0 0;
+    padding: 10px 42% 0 42%;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #d1d1d1;
+}
+
+button {
+    margin: 0 42% 0 42%;
+    text-align: center;
+    color: white;
+    background-color: #34AFF1;
+}
+
+
+.middle {
+    text-align: center;
+
+}
+
+.words {
+    margin: 5% 16% 0 16%;
+    font-size: 15px;
+    color: #5E6366;
+}
+
+hr {
+    margin:5% 16% 0 16%;
+}
+
+body .nav {
+    float: left;
+    padding: 0 0 0 16%;
+    margin-top: 0;
+}
+
+body .navWords {
+    display: inline;
+    color: grey;
+
+}
+
+.copyRight {
+        display: block;
+        margin: 50px 0 0 0;
+        padding: 10px 250px 0 250px;
+        text-align: center;
+        font-size: 8px;
+        font-family: 'Times New Roman', Times, serif;
+        color: #d1d1d1;
+        
+    }
+
+
